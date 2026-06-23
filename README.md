@@ -38,3 +38,7 @@ https://strengthpeaking.com
 These calculators are intended as simple training tools. They are not a replacement for coaching, medical advice, or individual programming decisions.
 
 Use sensible loading, adjust based on recovery, and avoid running aggressive programs without appropriate training experience.
+
+
+See the full calculator index here: [calculators.md](calculators.md)
+
