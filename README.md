@@ -21,10 +21,10 @@ The tools are designed to make common training calculations easier, including on
 * [5/3/1 Calculator](https://strengthpeaking.com/531-calculator)
   Generate training percentages for Jim Wendler’s 5/3/1 style programming.
 
-* [DUP Program Calculator](https://strengthpeaking.com/dup-program-calculator)
+* [DUP Program Calculator](https://strengthpeaking.com/dup-calculator)
   Create daily undulating periodization training percentages.
 
-* [Wave Loading Calculator](https://strengthpeaking.com/wave-loading-calculator)
+* [Wave Loading Calculator](https://strengthpeaking.com/wave-calculator)
   Plan wave loading sets using percentage-based progression.
 
 ## Website
